@@ -1,0 +1,1 @@
+first,git clone this project,and then u can npm install... after that u can use expo start or npm start to see the apps,and after the page is showing,u can register fisrt,and login.... and u can see the movie api
